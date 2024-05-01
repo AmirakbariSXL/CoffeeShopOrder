@@ -15,3 +15,8 @@
   Project Files coffeeshoporder.py: Main Python script containing the app logic. 
   coffee_shop.sql: SQL file with table creation queries.
   Resources Python Shop Management System Project with Source Code GitHub: Billing-System-OR-Cafe-Restaurant-Managment-System-Using-Python-Tkinter-MySQL Feel free to customize and expand this app according to your coffee shop’s specific needs. 
+
+  
+#Amir_Akbari
+#SXL
+  
